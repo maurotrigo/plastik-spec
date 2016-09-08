@@ -52,7 +52,11 @@ This property is required
 
 ### number
 
+### boolean
+
 ### select
+
+### composite
 
 ### file
 
@@ -62,7 +66,11 @@ This property is required
 
 ### geopoint
 
-### composite
+### date
+
+### time
+
+### datetime
 
 ====
 
